@@ -1,4 +1,4 @@
-# codsoft-task-1
+
 AIM
 
 The main objective of this notebook is to analyze the Iris dataset using clustering techniques. Specifically, it applies the KMeans clustering algorithm to group data points based on flower features (sepal and petal dimensions) and determine the optimal number of clusters using the elbow method.
